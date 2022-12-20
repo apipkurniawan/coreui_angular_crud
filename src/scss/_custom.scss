@@ -1,0 +1,31 @@
+// Here you can add other styles
+.sidebar-brand {
+    background: #f45c5c !important;
+}
+
+th, td {
+    padding: 6px 8px !important;
+}
+
+th {
+    font-weight: normal !important;
+}
+
+thead, tbody, tfoot, tr, td, th {
+    border: 1px solid #cdcdcd !important;
+}
+
+.btn-intable {
+    padding: 2px 0 !important;
+}
+
+.table-title {
+    font-size: 24px;
+    line-height: 64px;
+}
+
+.grid-container {
+    display: flex;
+    justify-content: center;
+    column-gap: 10px;
+}
